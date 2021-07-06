@@ -8,22 +8,14 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+懦夫
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+记由物质匮乏所引起的情绪
 
-Jekyll also offers powerful support for code snippets:
+自2月11除夕至3月25无所事事一事无成,又是建网站又是翻墙,总之在互联网上闲逛.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+原来对父母的爱take it for granted的我,反思慢慢因阔别的缘故开始发酵,不断追问自己:父母这么拼为了什么?是为了我吗?省吃俭用为孩子,我以后也会这么做吗?这是社会底层出身的诅咒吗?我无力又可笑的希望他们自私些,别委屈牺牲自己,因为我能看见他们惨白的未来.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+无力感抑制了感恩之情的发展,也是重新感到爱之前下意识冷漠的原因,因为我不想要如此沉重的爱,逃避是我的选择,与此同时想改变当前情况的想法和自身发展本质要求的矛盾使我苦恼,当然尽早经济独立是解决父母牺牲问题的直接方案,不少寒门子弟辍学打工即是如此,但未充分发展自身的本质与父母的本意不符,未免有舍本逐末之嫌,但专注发展自身,父母的起早贪黑,每天三餐能省则省甚至不吃,我内心的煎熬使我是否能专注发展自身存疑,现实非理想主义,无解,所以之前我病态的极度厌恶父母牺牲自我,良心不安和不可名状的负罪感包裹着我,不知不觉我成为了懦夫,不去想,甚至觉得他们愚蠢可笑,因为带着期望带着沉重感去学习需要勇气,你会害怕任何放松娱乐的机会,因为随之而来的是负罪感的侵袭,永远不满足,永远处于对自身不满的状态,"父母那么,我还''会像石头压得你无法喘息,天性理想主义的我无法处理好这种思想,要么不去想,要么想到死所以年少的我选择逃避苟活了下来,但内心深处总感觉家是个压抑的地方,因为那种思想不时冒头.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+以前动漫中内心毫无波澜的中二台词"带着XX的期望勇敢的活下去吧",如今指引我方向,对真理与美的追求是我一生的意义,而对父母的爱与牺牲的感恩是我堕落的安全绳.
